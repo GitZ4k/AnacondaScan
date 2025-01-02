@@ -1,11 +1,7 @@
 # AnacondaScan
 AnacondaScan is a Python-based multi-threaded port scanner that identifies open TCP ports and their services on a target IP, featuring colorful terminal output and ASCII art.
 
-# Anaconda Port Scanner
 
-Anaconda Port Scanner is a Python tool to identify open ports and their services on a target IP. It features fast multi-threading, colorful output, and ASCII art.
-
----
 
 ## Features
 
