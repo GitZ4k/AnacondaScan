@@ -1,3 +1,4 @@
+
 # AnacondaScan
 AnacondaScan is a Python-based multi-threaded port scanner that identifies open TCP ports and their services on a target IP, featuring colorful terminal output and ASCII art.
 
@@ -27,8 +28,8 @@ pip install colorama rich
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/anaconda-port-scanner.git
-   cd anaconda-port-scanner
+   git clone https://github.com/your-username/AnacondaScan.git
+   cd AnacondaScan
    ```
 2. Run the script:
    ```bash
