@@ -30,11 +30,7 @@ pip install colorama rich
    git clone https://github.com/your-username/anaconda-port-scanner.git
    cd anaconda-port-scanner
    ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the script:
+2. Run the script:
    ```bash
    python port_scanner.py
    ```
